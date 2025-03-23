@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/uireturn.uss?fileID=7433441132597879392&amp;guid=ed7cd2153475b2447b20a0eb061590a1&amp;type=3#uireturn" />
+    <engine:VisualElement name="container" class="container" style="flex-grow: 1;">
+        <engine:Button text="Return" name="Returnbutton" class="button" style="color: rgb(255, 255, 255); background-image: url(&quot;project://database/Assets/Buttons/PNG/23Button_Midl_Red.png?fileID=2800000&amp;guid=cb1fee516d444164abc17d4b2050d4c2&amp;type=3#23Button_Midl_Red&quot;); -unity-background-scale-mode: stretch-to-fill; background-color: rgba(188, 188, 188, 0); border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;" />
+    </engine:VisualElement>
+</engine:UXML>

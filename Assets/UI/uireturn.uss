@@ -1,0 +1,13 @@
+.container {
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.button {
+    width: 15%;
+    margin-top: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 2.5%;
+    font-size: 56px;
+}

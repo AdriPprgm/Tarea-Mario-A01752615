@@ -1,0 +1,35 @@
+.container {
+}
+
+.title {
+    margin-top: 2.5%;
+    margin-right: 5%;
+    margin-bottom: 2.5%;
+    margin-left: 5%;
+    font-size: 86px;
+    -unity-text-align: upper-center;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    -unity-text-outline-color: rgba(0, 0, 0, 0);
+}
+
+.button:hover {
+    scale: 1.1 1.1;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.5s;
+    transition-property: all;
+    transition-delay: 0s;
+}
+
+.button {
+    -unity-text-align: upper-center;
+    width: 25%;
+    height: 25%;
+    background-color: rgba(0, 0, 0, 0);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    transition-timing-function: ease-out;
+    transition-duration: 0.5s;
+}
